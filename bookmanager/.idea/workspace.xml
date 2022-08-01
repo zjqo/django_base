@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5603b48-3574-415b-97b4-de6b768af003" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8508e28b-55f6-48b5-926c-be8522d5d312.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/apps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmanager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmanager/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/admin1/Desktop/django_1/django_base/bookmanager",
+    "last_opened_file_path": "/home/admin1/Desktop/django_1/django_base/bookmanager02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,7 +106,8 @@
       <workItem from="1659097131693" duration="3192000" />
       <workItem from="1659145456137" duration="26000" />
       <workItem from="1659145484765" duration="291000" />
-      <workItem from="1659319931980" duration="8631000" />
+      <workItem from="1659319931980" duration="9926000" />
+      <workItem from="1659337293149" duration="21000" />
     </task>
     <servers />
   </component>
